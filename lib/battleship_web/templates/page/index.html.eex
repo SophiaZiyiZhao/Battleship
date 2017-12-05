@@ -1,6 +1,6 @@
-<div class="add-page-bg">
- <h2 class="text-center font">
-  <%= gettext "Welcome to %{name}!", name: "Battleship" %></h2>
+<div id="header"></div>
+
+<div id="main">
 </div>
 
   
